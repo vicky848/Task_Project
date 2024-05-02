@@ -1,0 +1,21 @@
+.nav-main{
+    background-color: rgba(3, 21, 189, 0.575);
+    height: 80px;
+    margin: 0px;
+    padding: 0px;
+    padding-top: 0px;
+}
+.un-order-list{
+    list-style-type: none;
+    padding-top: 15px;
+    display: flex;
+}
+.list{
+    margin: 10px;
+    color: #ffffff;
+    font-family: "Roboto";
+    font-weight: bold;
+    cursor: pointer;
+
+}
+
